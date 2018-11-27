@@ -15,4 +15,7 @@ img {
   #desktop {
     display: none;
   }
+ #responsive {
+   display: block;
+ } 
 }
